@@ -1,0 +1,56 @@
+{
+  "name": "Music cache",
+  "short_name": "cacheMusic",
+  "description": "music cain",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#8f7b3b",
+  "theme_color": "#6e664d",
+  "orientation": "any",
+
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1715947627/pidgelixzoh7dr20kaf2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1716204313/ur7xmw6gw3hulsd5hmdy.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1716268730/oqgnkvka4wq5zfcnvdxb.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1716269049/eklspqbqamyhbdk4l7ci.png",
+      "type": "image/png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1716269122/f1hmnsrdi4nmaco7bnus.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1716269282/cqsyn6gh63xith65sv9i.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1716208462/Screenshot-mobile_zuvxsr.png",
+      "type": "image/png",
+      "sizes": "434x505"
+    },
+    {
+      "src": "https://res.cloudinary.com/dxcywxeqq/image/upload/v1716274714/Screenshot-desktop_uuq43l.png",
+      "type": "image/png",
+      "sizes": "1015x462",
+      "form_factor": "wide"
+    }
+  ]
+}
